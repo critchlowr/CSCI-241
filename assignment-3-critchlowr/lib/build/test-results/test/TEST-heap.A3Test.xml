@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="heap.A3Test" tests="33" skipped="0" failures="0" errors="0" timestamp="2023-02-26T21:29:17" hostname="Ryans-Laptop-2.local" time="0.046">
+  <properties/>
+  <testcase name="test100Add" classname="heap.A3Test" time="0.004"/>
+  <testcase name="test110Swap" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test115Add_BubbleUp" classname="heap.A3Test" time="0.001"/>
+  <testcase name="test117Add_BubbleUpDuplicatePriorities" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test120Peek" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test130Poll_BubbleDown_NoDups" classname="heap.A3Test" time="0.001"/>
+  <testcase name="test140testDuplicatePriorities" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test170Strings" classname="heap.A3Test" time="0.001"/>
+  <testcase name="test190BigTests" classname="heap.A3Test" time="0.006"/>
+  <testcase name="test210PutGet" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test211PutGet" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test212Put" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test213Put" classname="heap.A3Test" time="0.001"/>
+  <testcase name="test230PutGet" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test231Put" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test240ContainsKey" classname="heap.A3Test" time="0.001"/>
+  <testcase name="test241ContainsKey" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test250Remove" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test251Remove" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test280Grow" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test281Rehash" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test290Strings" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test291Strings" classname="heap.A3Test" time="0.016"/>
+  <testcase name="test300Add" classname="heap.A3Test" time="0.001"/>
+  <testcase name="test310Swap" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test315Add_BubbleUp" classname="heap.A3Test" time="0.001"/>
+  <testcase name="test317Add_BubbleUpDuplicatePriorities" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test330Poll_BubbleDown_NoDups" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test340testDuplicatePriorities" classname="heap.A3Test" time="0.001"/>
+  <testcase name="test350contains" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test360ChangePriority" classname="heap.A3Test" time="0.001"/>
+  <testcase name="test370Strings" classname="heap.A3Test" time="0.0"/>
+  <testcase name="test390BigTests" classname="heap.A3Test" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

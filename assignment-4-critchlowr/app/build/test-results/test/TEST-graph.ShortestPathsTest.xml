@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="graph.ShortestPathsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-03-07T21:52:02" hostname="ryans-laptop-2.wlan.wwu.edu" time="0.016">
+  <properties/>
+  <testcase name="test00Nothing" classname="graph.ShortestPathsTest" time="0.001"/>
+  <testcase name="test01Simple0" classname="graph.ShortestPathsTest" time="0.011"/>
+  <testcase name="test02Simple1" classname="graph.ShortestPathsTest" time="0.001"/>
+  <testcase name="test03Simple2" classname="graph.ShortestPathsTest" time="0.001"/>
+  <testcase name="test04FakeCanada" classname="graph.ShortestPathsTest" time="0.001"/>
+  <system-out><![CDATA[Graph has: 
+3 nodes.
+3 edges.
+Average degree 1.0
+Graph has: 
+5 nodes.
+10 edges.
+Average degree 2.0
+Graph has: 
+10 nodes.
+14 edges.
+Average degree 1.4
+Graph has: 
+5 nodes.
+5 edges.
+Average degree 1.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
