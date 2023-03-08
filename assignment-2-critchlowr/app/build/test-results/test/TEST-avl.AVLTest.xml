@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="avl.AVLTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2023-02-14T02:21:07" hostname="Ryans-Laptop-2.local" time="0.035">
+  <properties/>
+  <testcase name="test00bstInsertRoot" classname="avl.AVLTest" time="0.004"/>
+  <testcase name="test10bstInsert" classname="avl.AVLTest" time="0.011"/>
+  <testcase name="test20parentPointers" classname="avl.AVLTest" time="0.001"/>
+  <testcase name="test30leftRotate" classname="avl.AVLTest" time="0.0"/>
+  <testcase name="test31leftRotate" classname="avl.AVLTest" time="0.0"/>
+  <testcase name="test32leftRotate" classname="avl.AVLTest" time="0.001"/>
+  <testcase name="test40rightRotate" classname="avl.AVLTest" time="0.0"/>
+  <testcase name="test41rightRotate" classname="avl.AVLTest" time="0.001"/>
+  <testcase name="test42rightRotate" classname="avl.AVLTest" time="0.0"/>
+  <testcase name="test50rebalance" classname="avl.AVLTest" time="0.002"/>
+  <testcase name="test51rebalance" classname="avl.AVLTest" time="0.0"/>
+  <testcase name="test52rebalance" classname="avl.AVLTest" time="0.0"/>
+  <testcase name="test53rebalance" classname="avl.AVLTest" time="0.001"/>
+  <testcase name="test54rebalance" classname="avl.AVLTest" time="0.0"/>
+  <testcase name="test55rebalance" classname="avl.AVLTest" time="0.001"/>
+  <testcase name="test56rebalance" classname="avl.AVLTest" time="0.001"/>
+  <testcase name="test57rebalance" classname="avl.AVLTest" time="0.001"/>
+  <testcase name="test58rebalance" classname="avl.AVLTest" time="0.0"/>
+  <testcase name="test60avlInsert" classname="avl.AVLTest" time="0.001"/>
+  <testcase name="test61avlInsert" classname="avl.AVLTest" time="0.001"/>
+  <testcase name="test62avlInsert" classname="avl.AVLTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
